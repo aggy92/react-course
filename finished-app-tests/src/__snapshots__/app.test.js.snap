@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`addNumbers test Should match a snapshot of App 1`] = `"<h1 class=\\"sc-AykKC gzshXR\\">Pokedex</h1><input class=\\"sc-AykKG iZHRia\\"/><div class=\\"sc-AykKF nlbLF\\"></div>"`;
